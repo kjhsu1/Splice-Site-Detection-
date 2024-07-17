@@ -18,8 +18,6 @@ from tensorflow.keras.preprocessing.text import Tokenizer
 # data type
 
 
-print('Tensorflow version:', tf.__version__)
-
 
 # the x data
 # it is stored as a LIST of INTEGER STRINGS
